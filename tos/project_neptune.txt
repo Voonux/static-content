@@ -1,0 +1,20 @@
+Project Neptune - Terms of Service 
+(Last update: 17.11.2025)
+
+1. General Disclaimer: Project Neptune is a fan-made, non-commercial project that revives singleplayer and multiplayer functionality for Medal of Honor (2010). It is not affiliated with, endorsed by, or supported by Electronic Arts.
+
+2. Acceptable Use: You agree not to:
+-   Harass, threaten, or abuse other players.
+-   Attempt to disrupt the service, servers, or other users. Violations may result in suspension or a ban.
+-   Use cheats, hacks, exploits, or unauthorized modifications.
+-   Use a pirated, cracked, or otherwise unauthorized copy of Medal of Honor (2010).
+
+3. Player Data: Project Neptune stores basic account information such as player names, email addresses, passwords, gameplay statistics, and technical data. Passwords are securely hashed and never stored in plain text. We do not sell your data. It is only used to operate, secure, and improve the service. 
+
+4. Service Availability: Project Neptune is a volunteer-driven service. Features may change at any time, and the service may experience downtime or be discontinued without notice.
+
+5. Liability: Project Neptune is provided "as is" without warranties. We are not responsible for data loss, downtime, or damages resulting from using the service.
+
+6. Changes to the Terms: We may update these Terms of Service at any time.
+
+7. Contact: For questions or support, contact: info@voonux.net
